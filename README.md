@@ -34,7 +34,7 @@ The application uses pre-built questions and provides a fast, smooth, and respon
 
 ## 📫 Connect with Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📧 Email: 25160@yenepoya.edu.in
 * 💼 LinkedIn: Coming soon
 
 ---
