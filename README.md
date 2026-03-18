@@ -1,16 +1,42 @@
-## Hi there 👋
+## 🚀 About Me
 
-<!--
-**ardra-space/ardra-space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 Computer Science Student
+* 💻 Passionate about Web Development
+* 📱 Interested in building Progressive Web Apps (PWA) and Data Analytics
+* 🌱 Currently learning Full Stack Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+* 💻 Languages: HTML, CSS, JavaScript, Python
+* ⚙️ Tools: GitHub, VS Code
+* 🌐 Web: Frontend Development
+* 📱 PWA Development
+
+---
+
+📌 Projects
+
+🔹 Online Quiz Website (PWA Project)
+A Progressive Web App that allows users to take quizzes even without an internet connection.
+The application uses pre-built questions and provides a fast, smooth, and responsive user experience.
+
+🔹 More projects coming soon...
+
+---
+
+## 📈 GitHub Stats
+
+![Ardra's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: Coming soon
+
+---
+
+⭐️ *"Focused on building simple and useful web applications."*
