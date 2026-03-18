@@ -1,28 +1,26 @@
-## 🚀 About Me
+🚀 About Me
 
-* 🎓 Computer Science Student
-* 💻 Passionate about Web Development
-* 📱 Interested in building Progressive Web Apps (PWA) and Data Analytics
-* 🌱 Currently learning Full Stack Development
+💻 Passionate about Web Development
+📱 Interested in building Progressive Web Apps (PWA)
+🌱 Currently improving JavaScript & Frontend skills
+🎯 Goal: Become a Skilled Web Developer
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 * 💻 Languages: HTML, CSS, JavaScript, Python
-* ⚙️ Tools: GitHub, VS Code
+* ⚙️ Tools: Git, GitHub, VS Code
 * 🌐 Web: Frontend Development
-* 📱 PWA Development
 
 ---
 
-📌 Projects
+## 📌 Projects
 
-🔹 Online Quiz Website (PWA Project)
-A Progressive Web App that allows users to take quizzes even without an internet connection.
-The application uses pre-built questions and provides a fast, smooth, and responsive user experience.
-
-🔹 More projects coming soon...
+* 🔹 **Online Quiz Website (PWA Project)**
+  A Progressive Web App where users can take quizzes with a fast, responsive, and offline-friendly experience.
+  
+* 🔹 More projects coming soon...
 
 ---
 
