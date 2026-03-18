@@ -28,7 +28,7 @@ The application uses pre-built questions and provides a fast, smooth, and respon
 
 ## 📈 GitHub Stats
 
-![Ardra's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME\&show_icons=true\&theme=tokyonight)
+![Ardra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardra-space\&show_icons=true\&theme=tokyonight)
 
 ---
 
